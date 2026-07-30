@@ -1,4 +1,4 @@
-# ranjitray.framer.wiki — exported by NoCodeXport
+# ranjitray.framer.wiki
 
 Source: https://ranjitray.framer.wiki
 Mode: full-site
@@ -18,16 +18,3 @@ Assets are organized by type under /assets/:
 - assets/meta/    — files referenced from <meta> tags (social preview images, search indexes)
 - assets/files/   — everything else
 
-## Hosting
-
-This is a fully static site. Drop the contents into any of:
-
-- Cloudflare Pages
-- Netlify
-- Vercel (static)
-- GitHub Pages
-- nginx / Apache / Caddy
-- AWS S3 + CloudFront
-- Any web server that can serve static files
-
-Built with NoCodeXport — https://nocodexport.com
